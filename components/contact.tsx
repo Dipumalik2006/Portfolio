@@ -3,7 +3,7 @@
 import { useReveal } from "@/lib/use-reveal"
 
 const socials = [
-  { href: "mailto:hello@example.com", label: "hello@example.com" },
+  { href: "mailto:malikdipu2006@gmail.com", label: "malikdipu2006@gmail.com" },
   { href: "#", label: "LinkedIn" },
   { href: "#", label: "Instagram" },
   { href: "#", label: "Behance" },
@@ -45,7 +45,7 @@ export function Contact() {
           </div>
 
           <a
-            href="mailto:hello@example.com"
+            href="mailto:malikdipu2006@gmail.com"
             id="contact-cta-btn"
             className="group relative w-fit overflow-hidden rounded-full bg-accent px-8 py-4 text-base font-semibold text-accent-foreground transition-all duration-200 hover:scale-[1.04] hover:shadow-[0_0_40px_oklch(0.82_0.16_78/0.5)]"
           >
